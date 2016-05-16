@@ -1,0 +1,1 @@
+<footer>Блог<br>Copyright &copy;</footer>
